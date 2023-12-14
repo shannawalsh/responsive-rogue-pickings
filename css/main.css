@@ -79,8 +79,6 @@ header nav ul {
 }
 
 header nav ul li {
-	/*display: flex;
-	justify-content: center;*/
 	list-style: none;
 	width: 100%;
 	font-size: .875em;
